@@ -10,8 +10,6 @@ def display_vehicle():
             x.vehicle_detail()
             print("\n")
 
-
-
 #option
 def display_option():
     select = 0
