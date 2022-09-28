@@ -31,6 +31,10 @@ class labtop:
         return self.__ram
     def set_ram(self,ram):
         self.__ram = ram
+    def get_display(self):
+        return self.__display
+    def set_display(self, display):
+        self.__display = display
     def get_storage(self):
         return self.__storage
     def set_storage(self,storage):
